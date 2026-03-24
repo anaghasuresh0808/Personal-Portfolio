@@ -17,5 +17,5 @@ It showcases my education, skills, interests, experience, certifications, and co
 ## Author
 
 **Anagha Suresh**  
-- LinkedIn: (https://www.linkedin.com/in/anagha-s-5b5004392)  
+- LinkedIn: https://www.linkedin.com/in/anagha-s-5b5004392
 - Email: anaghasuresh0808@gmail.com
